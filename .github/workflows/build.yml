@@ -22,4 +22,4 @@ on:
 
 jobs:
   build:
-    uses: madmachineio/actions/.github/workflows/build.yml@main
+    uses: erikhafnor/actions/.github/workflows/build.yml@main
